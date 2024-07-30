@@ -2,7 +2,7 @@ Cara Menjalankan Aplikasinya
 - Install Node Js Di Local Anda atau Di Laptop Anda,Anda Dapat Berkunjung Di website nodejs.org
 - Setelah Di Download Via Zip Atau Sudah Clone Aplikasinya
 - Anda Dapat Mebuka Text Editor Anda Masing-masing seperti VS Code(Recomended),Sublime Text,Atom,Notepad++,Notepad
-- Semisalnya Menggunakan VS Code ,anda dapat mengetikan Ctrl + ` + p (untuk terminal baru) atau Ctrl + ` (untuk menampilkan terminal)
+- Semisalnya Menggunakan VS Code ,anda dapat mengetikan Ctrl + backtic + p (untuk terminal baru) atau Ctrl + backtic (untuk menampilkan terminal)
    > masuk kedalam direktori todo-list dengan cara "cd todo-list" dan usahakan tampilannya misalnya D:Aplikasi_To_Do_List/todo-list dalam 
      terminal anda
    > Setelah itu ketikan npm run dev
